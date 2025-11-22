@@ -1,0 +1,231 @@
+Title,Link
+"A survey on large language model (llm) security and privacy: The good, the bad, and the ugly",https://www.sciencedirect.com/science/article/pii/S266729522400014X
+A survey of GPT-3 family large language models including ChatGPT and GPT-4,https://www.sciencedirect.com/science/article/pii/S2949719123000456
+Large language models for software engineering: Survey and open problems,https://ieeexplore.ieee.org/abstract/document/10449667/
+"Software testing with large language models: Survey, landscape, and vision",https://ieeexplore.ieee.org/abstract/document/10440574/
+Refining chatgpt-generated code: Characterizing and mitigating code quality issues,https://dl.acm.org/doi/abs/10.1145/3643674
+When llms meet cybersecurity: A systematic literature review,https://cybersecurity.springeropen.com/articles/10.1186/s42400-025-00361-w
+"Llm-based edge intelligence: A comprehensive survey on architectures, applications, security and trustworthiness",https://ieeexplore.ieee.org/abstract/document/10669603/
+Devgpt: Studying developer-chatgpt conversations,https://dl.acm.org/doi/abs/10.1145/3643991.3648400
+Trustworthy and synergistic artificial intelligence for software engineering: Vision and roadmaps,https://ieeexplore.ieee.org/abstract/document/10449668/
+Large language model for vulnerability detection and repair: Literature review and the road ahead,https://dl.acm.org/doi/abs/10.1145/3708522
+Large language model-powered smart contract vulnerability detection: New perspectives,https://ieeexplore.ieee.org/abstract/document/10431564/
+An empirical study on usage and perceptions of llms in a software engineering project,https://dl.acm.org/doi/abs/10.1145/3643795.3648379
+ChatGPT and finetuned BERT: A comparative study for developing intelligent design support systems,https://www.sciencedirect.com/science/article/pii/S2667305323001333
+Automating research synthesis with domain-specific large language model fine-tuning,https://dl.acm.org/doi/abs/10.1145/3715964
+Enchanting program specification synthesis by large language models using static analysis and program verification,https://link.springer.com/chapter/10.1007/978-3-031-65630-9_16
+Automatic commit message generation: A critical review and directions for future work,https://ieeexplore.ieee.org/abstract/document/10433002/
+Automatically inspecting thousands of static bug warnings with large language model: How far are we?,https://dl.acm.org/doi/abs/10.1145/3653718
+Efficient and green large language models for software engineering: Vision and the road ahead,https://dl.acm.org/doi/abs/10.1145/3708525
+Drowzee: Metamorphic testing for fact-conflicting hallucination detection in large language models,https://dl.acm.org/doi/abs/10.1145/3689776
+"Deep learning-based software engineering: progress, challenges, and opportunities",https://link.springer.com/article/10.1007/s11432-023-4127-5
+How to refactor this code? An exploratory study on developer-ChatGPT refactoring conversations,https://dl.acm.org/doi/abs/10.1145/3643991.3645081
+Large language models for qualitative research in software engineering: exploring opportunities and challenges,https://link.springer.com/article/10.1007/s10515-023-00407-8
+Automatic smart contract comment generation via large language models and in-context learning,https://www.sciencedirect.com/science/article/pii/S0950584924000107
+A disruptive research playbook for studying disruptive innovations,https://dl.acm.org/doi/abs/10.1145/3678172
+On the reliability and explainability of language models for program generation,https://dl.acm.org/doi/abs/10.1145/3641540
+Greening large language models of code,https://dl.acm.org/doi/abs/10.1145/3639475.3640097
+CLAP: Learning transferable binary code representations with natural language supervision,https://dl.acm.org/doi/abs/10.1145/3650212.3652145
+"Deep learning model reuse in the huggingface community: Challenges, benefit and trends",https://ieeexplore.ieee.org/abstract/document/10589852/
+On the evaluation of large language models in unit test generation,https://dl.acm.org/doi/abs/10.1145/3691620.3695529
+Assessing ai detectors in identifying ai-generated code: Implications for education,https://dl.acm.org/doi/abs/10.1145/3639474.3640068
+Enhancing genetic improvement mutations using large language models,https://link.springer.com/chapter/10.1007/978-3-031-48796-5_13
+Llm-generated explanations for recommender systems,https://dl.acm.org/doi/abs/10.1145/3631700.3665185
+Code summarization without direct access to code-towards exploring federated llms for software engineering,https://dl.acm.org/doi/abs/10.1145/3661167.3661210
+Fight fire with fire: How much can we trust ChatGPT on source code-related tasks?,https://ieeexplore.ieee.org/abstract/document/10745266/
+Scale: Constructing structured natural language comment trees for software vulnerability detection,https://dl.acm.org/doi/abs/10.1145/3650212.3652124
+An investigation into misuse of java security apis by large language models,https://dl.acm.org/doi/abs/10.1145/3634737.3661134
+Learning agent-based modeling with LLM companions: Experiences of novices and experts using ChatGPT & NetLogo chat,https://dl.acm.org/doi/abs/10.1145/3613904.3642377
+Assured Offline LLM-Based Software Engineering,https://dl.acm.org/doi/abs/10.1145/3643661.3643953
+Effectiveness of chatgpt for static analysis: How far are we?,https://dl.acm.org/doi/abs/10.1145/3664646.3664777
+Research on WebAssembly Runtimes: A Survey,https://dl.acm.org/doi/abs/10.1145/3714465
+Ai coders are among us: Rethinking programming language grammar towards efficient code generation,https://dl.acm.org/doi/abs/10.1145/3650212.3680347
+Identifying smart contract security issues in code snippets from stack overflow,https://dl.acm.org/doi/abs/10.1145/3650212.3680353
+Test Oracle Automation in the era of LLMs,https://dl.acm.org/doi/abs/10.1145/3715107
+Multibody models generated from natural language,https://link.springer.com/article/10.1007/s11044-023-09962-0
+An Empirical Study on Challenges for LLM Application Developers,https://dl.acm.org/doi/abs/10.1145/3715007
+A survey of source code search: A 3-dimensional perspective,https://dl.acm.org/doi/abs/10.1145/3656341
+When neural code completion models size up the situation: Attaining cheaper and faster completion through dynamic model inference,https://dl.acm.org/doi/abs/10.1145/3597503.3639120
+CyberMetric: a benchmark dataset based on retrieval-augmented generation for evaluating LLMs in cybersecurity knowledge,https://ieeexplore.ieee.org/abstract/document/10679494/
+LLMs in Web Development: Evaluating LLM-Generated PHP Code Unveiling Vulnerabilities and Limitations,https://link.springer.com/chapter/10.1007/978-3-031-68738-9_34
+Exploring the potential of large language models in self-adaptive systems,https://dl.acm.org/doi/abs/10.1145/3643915.3644088
+Gotcha! this model uses my code! evaluating membership leakage risks in code models,https://ieeexplore.ieee.org/abstract/document/10735776/
+Chain-of-thought in neural code generation: From and for lightweight language models,https://ieeexplore.ieee.org/abstract/document/10634302/
+Llm security guard for code,https://dl.acm.org/doi/abs/10.1145/3661167.3661263
+The promise and challenges of using LLMs to accelerate the screening process of systematic reviews,https://dl.acm.org/doi/abs/10.1145/3661167.3661172
+An empirical study on the effectiveness of large language models for SATD identification and classification,https://link.springer.com/article/10.1007/s10664-024-10548-3
+Llm for mobile: An initial roadmap,https://dl.acm.org/doi/abs/10.1145/3708528
+When fuzzing meets llms: Challenges and opportunities,https://dl.acm.org/doi/abs/10.1145/3663529.3663784
+Leveraging gpt-like llms to automate issue labeling,https://dl.acm.org/doi/abs/10.1145/3643991.3644903
+Can gpt-4 replicate empirical software engineering research?,https://dl.acm.org/doi/abs/10.1145/3660767
+Mutation-based consistency testing for evaluating the code understanding capability of llms,https://dl.acm.org/doi/abs/10.1145/3644815.3644946
+Knowledge-aware alert aggregation in large-scale cloud systems: a hybrid approach,https://dl.acm.org/doi/abs/10.1145/3639477.3639745
+Are we testing or being tested? exploring the practical applications of large language models in software testing,https://ieeexplore.ieee.org/abstract/document/10638556/
+Unveiling code pre-trained models: Investigating syntax and semantics capacities,https://dl.acm.org/doi/abs/10.1145/3664606
+Beyond words: On large language models actionability in mission-critical risk analysis,https://dl.acm.org/doi/abs/10.1145/3674805.3695401
+WaDec: Decompiling WebAssembly Using Large Language Model,https://dl.acm.org/doi/abs/10.1145/3691620.3695020
+Guardian: A Runtime Framework for LLM-Based UI Exploration,https://dl.acm.org/doi/abs/10.1145/3650212.3680334
+What you need is what you get: Theory of mind for an llm-based code understanding assistant,https://ieeexplore.ieee.org/abstract/document/10795053/
+On the use of large language models in model-driven engineering,https://link.springer.com/article/10.1007/s10270-025-01263-8
+LUNA: A Model-Based Universal Analysis Framework for Large Language Models,https://ieeexplore.ieee.org/abstract/document/10562221/
+The impact of chatgpt on students' learning programming languages,https://link.springer.com/chapter/10.1007/978-3-031-61691-4_14
+Reality bites: Assessing the realism of driving scenarios with large language models,https://dl.acm.org/doi/abs/10.1145/3650105.3652296
+Research directions in software supply chain security,https://dl.acm.org/doi/abs/10.1145/3714464
+Llm app store analysis: A vision and roadmap,https://dl.acm.org/doi/abs/10.1145/3708530
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,https://dl.acm.org/doi/abs/10.1145/3691620.3695513
+Metmap: Metamorphic testing for detecting false vector matching problems in LLM augmented generation,https://dl.acm.org/doi/abs/10.1145/3650105.3652297
+Model-Driven Approaches for Reverse Engineering - A Systematic Literature Review,https://ieeexplore.ieee.org/abstract/document/10509696/
+Codefeater: Using llms to find defeaters in assurance cases,https://dl.acm.org/doi/abs/10.1145/3691620.3695296
+Automated categorization of pre-trained models in software engineering: A case study with a Hugging Face dataset,https://dl.acm.org/doi/abs/10.1145/3661167.3661215
+Model generation with LLMs: From requirements to UML sequence diagrams,https://ieeexplore.ieee.org/abstract/document/10628665/
+A meta-study of software-change intentions,https://dl.acm.org/doi/abs/10.1145/3661484
+Exploring large language model for generic and robust state-of-charge estimation of Li-ion batteries: A mixed prompt learning method,https://www.sciencedirect.com/science/article/pii/S0360544224016293
+On the generalizability of deep learning-based code completion across programming language versions,https://dl.acm.org/doi/abs/10.1145/3643916.3644411
+Don't Complete It! Preventing Unhelpful Code Completion for Productive and Sustainable Neural Code Completion Systems,https://ieeexplore.ieee.org/abstract/document/10172653/
+An empirical study on developers' shared conversations with ChatGPT in GitHub pull requests and issues,https://link.springer.com/article/10.1007/s10664-024-10540-x
+An exploratory investigation into code license infringements in large language model training datasets,https://dl.acm.org/doi/abs/10.1145/3650105.3652298
+Test code generation for telecom software systems using two-stage generative model,https://ieeexplore.ieee.org/abstract/document/10615269/
+A catalog of data smells for coding tasks,https://dl.acm.org/doi/abs/10.1145/3707457
+Advscanner: Generating adversarial smart contracts to exploit reentrancy vulnerabilities using llm and static analysis,https://dl.acm.org/doi/abs/10.1145/3691620.3695482
+Automated test case repair using language models,https://ieeexplore.ieee.org/abstract/document/10883022/
+Reasoning and planning with large language models in code development,https://dl.acm.org/doi/abs/10.1145/3637528.3671452
+Evaluating explanations for software patches generated by large language models,https://link.springer.com/chapter/10.1007/978-3-031-48796-5_12
+DeepMig: A transformer-based approach to support coupled library and code migrations,https://www.sciencedirect.com/science/article/pii/S0950584924001939
+Challenges and Opportunities of LLM-Based Synthetic Personae and Data in HCI,https://dl.acm.org/doi/abs/10.1145/3678884.3681826
+"Generative ai for pull request descriptions: Adoption, impact, and developer interventions",https://dl.acm.org/doi/abs/10.1145/3643773
+Navigating the pitfalls: Analyzing the behavior of LLMs as a coding assistant for computer science students-a systematic review of the literature,https://ieeexplore.ieee.org/abstract/document/10636140/
+The return of formal requirements engineering in the era of large language models,https://link.springer.com/chapter/10.1007/978-3-031-57327-9_22
+An industry case study on adoption of ai-based programming assistants,https://dl.acm.org/doi/abs/10.1145/3639477.3643648
+6GSoft: Software for edge-to-cloud continuum,https://ieeexplore.ieee.org/abstract/document/10803321/
+Nl2processops: towards LLM-guided code generation for process execution,https://link.springer.com/chapter/10.1007/978-3-031-70418-5_8
+Leveraging llms for the quality assurance of software requirements,https://ieeexplore.ieee.org/abstract/document/10628462/
+Which syntactic capabilities are statistically learned by masked language models for code?,https://dl.acm.org/doi/abs/10.1145/3639476.3639768
+Gptzoo: A large-scale dataset of gpts for the research community,https://dl.acm.org/doi/abs/10.1145/3691620.3695309
+SmartGuard: An LLM-enhanced framework for smart contract vulnerability detection,https://www.sciencedirect.com/science/article/pii/S0957417425001010
+FAIL: Analyzing Software Failures from the News Using LLMs,https://dl.acm.org/doi/abs/10.1145/3691620.3695022
+Open-source AI-based SE tools: opportunities and challenges of collaborative software learning,https://dl.acm.org/doi/abs/10.1145/3708529
+Exploring the potential of large language models for improving digital forensic investigation efficiency,https://www.sciencedirect.com/science/article/pii/S2666281724001860
+Qualitative Research with Socio-Technical Grounded Theory,https://link.springer.com/content/pdf/10.1007/978-3-031-60533-8.pdf
+How secure is AI-generated code: a large-scale comparison of large language models,https://link.springer.com/article/10.1007/s10664-024-10590-1
+Lessons from building stackspot ai: A contextualized ai coding assistant,https://dl.acm.org/doi/abs/10.1145/3639477.3639751
+Can developers prompt? a controlled experiment for code documentation generation,https://ieeexplore.ieee.org/abstract/document/10795104/
+A State-of-the-practice Release-readiness Checklist for Generative AI-based Software Products,https://ieeexplore.ieee.org/abstract/document/10630805/
+An empirical study on code review activity prediction and its impact in practice,https://dl.acm.org/doi/abs/10.1145/3660806
+Self-sustaining software systems (s4): Towards improved interpretability and adaptation,https://dl.acm.org/doi/abs/10.1145/3643657.3643910
+Generative ai and software variability-a research vision,https://dl.acm.org/doi/abs/10.1145/3634713.3634722
+Using large language models for commit message generation: A preliminary study,https://ieeexplore.ieee.org/abstract/document/10589767/
+Geosystems risk and uncertainty: The application of ChatGPT with targeted prompting,https://www.sciencedirect.com/science/article/pii/S2949891024002598
+OptLLM: Optimal Assignment of Queries to Large Language Models,https://ieeexplore.ieee.org/abstract/document/10707591/
+Application of Large Language Models in Cybersecurity: A Systematic Literature Review,https://ieeexplore.ieee.org/abstract/document/10767242/
+Hints for generative AI software development,https://ieeexplore.ieee.org/abstract/document/10629164/
+Morescient GAI for software engineering,https://dl.acm.org/doi/abs/10.1145/3709354
+Ai over-hype: A dangerous threat (and how to fix it),https://ieeexplore.ieee.org/abstract/document/10705752/
+The Effects of Depth of Knowledge of a Virtual Agent,https://ieeexplore.ieee.org/abstract/document/10670482/
+LLM Compiler: Foundation Language Models for Compiler Optimization,https://dl.acm.org/doi/abs/10.1145/3708493.3712691
+Large Language Models for Software Engineering: A Systematic Mapping Study,https://link.springer.com/chapter/10.1007/978-3-031-71139-8_5
+The emergence of large language models in static analysis: A first look through micro-benchmarks,https://dl.acm.org/doi/abs/10.1145/3650105.3652288
+The use of large language models for program repair,https://www.sciencedirect.com/science/article/pii/S092054892400120X
+Generating specifications from requirements documents for smart devices using large language models (llms),https://link.springer.com/chapter/10.1007/978-3-031-60405-8_7
+Promises and perils of using Transformer-based models for SE research,https://www.sciencedirect.com/science/article/pii/S0893608024009961
+Automating materiality assessment with a data-driven document-based approach,https://www.sciencedirect.com/science/article/pii/S2667096824000995
+LLM-powered Zero-shot Online Log Parsing,https://ieeexplore.ieee.org/abstract/document/10707403/
+Automatically Recommend Code Updates: Are We There Yet?,https://dl.acm.org/doi/abs/10.1145/3678167
+ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle,https://dl.acm.org/doi/abs/10.1145/3643991.3645069
+Flexible and secure code deployment in federated learning using large language models: Prompt engineering to enhance malicious code detection,https://ieeexplore.ieee.org/abstract/document/10475813/
+Overview of Current Challenges in Multi-Architecture Software Engineering and a Vision for the Future,https://link.springer.com/chapter/10.1007/978-3-031-86193-2_5
+Automated Generation of Code Contracts: Generative AI to the Rescue?,https://dl.acm.org/doi/abs/10.1145/3689484.3690738
+Large language model based mutations in genetic improvement,https://link.springer.com/article/10.1007/s10515-024-00473-6
+Icing on the Cake: Automatic Code Summarization at Ericsson,https://ieeexplore.ieee.org/abstract/document/10795074/
+The Impact of Generative AI on Creativity in Software Development: A Research Agenda,https://dl.acm.org/doi/abs/10.1145/3708523
+Formal requirements engineering and large language models: A two-way roadmap,https://www.sciencedirect.com/science/article/pii/S0950584925000369
+Reimagining self-adaptation in the age of large language models,https://ieeexplore.ieee.org/abstract/document/10628416/
+Towards Interpreting the Behavior of Large Language Models on Software Engineering Tasks,https://dl.acm.org/doi/abs/10.1145/3639478.3639798
+CFStra: Enhancing Configurable Program Analysis Through LLM-Driven Strategy Selection Based on Code Features,https://link.springer.com/chapter/10.1007/978-3-031-64626-3_22
+Improving Recommender Systems with Large Language Models,https://dl.acm.org/doi/abs/10.1145/3631700.3664919
+Pytester: Deep reinforcement learning for text-to-testcase generation,https://www.sciencedirect.com/science/article/pii/S0164121225000494
+Evaluating generative language models with prompt engineering for categorizing user stories to its sector domains,https://ieeexplore.ieee.org/abstract/document/10544242/
+"LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead",https://dl.acm.org/doi/abs/10.1145/3712003
+The Future of AI-Driven Software Engineering,https://dl.acm.org/doi/abs/10.1145/3715003
+Model review: A PROMISEing opportunity,https://dl.acm.org/doi/abs/10.1145/3617555.3617876
+Requirements Engineering for Trustworthy Human-AI Synergy in Software Engineering 2.0,https://ieeexplore.ieee.org/abstract/document/10628472/
+Understanding Defects in Generated Codes by Language Models,https://ieeexplore.ieee.org/abstract/document/10837857/
+Exploring large language models for method name prediction,https://ieeexplore.ieee.org/abstract/document/10684588/
+Look Before You Leap: An Exploratory Study of Uncertainty Analysis for Large Language Models,https://ieeexplore.ieee.org/abstract/document/10820047/
+Retrospective: Data Mining Static Code Attributes to Learn Defect Predictors,https://ieeexplore.ieee.org/abstract/document/10869331/
+Redefining crowdsourced test report prioritization: An innovative approach with large language model,https://www.sciencedirect.com/science/article/pii/S0950584924002349
+Measuring model alignment for code clone detection using causal interpretation,https://link.springer.com/article/10.1007/s10664-024-10583-0
+The role of library versions in Developer-ChatGPT conversations,https://dl.acm.org/doi/abs/10.1145/3643991.3645075
+Software development in the age of intelligence: embracing large language models with the right approach,https://link.springer.com/article/10.1631/FITEE.2300537
+A demonstration of end-user code customization using generative ai,https://dl.acm.org/doi/abs/10.1145/3634713.3634732
+A Preliminary Study of Multilingual Code Language Models for Code Generation Task Using Translated Benchmarks,https://dl.acm.org/doi/abs/10.1145/3691621.3694939
+A Human Behavior Exploration Approach Using LLMs for Cyber-Physical Systems,https://dl.acm.org/doi/abs/10.1145/3652620.3687806
+StackRAG Agent: Improving Developer Answers with Retrieval-Augmented Generation,https://ieeexplore.ieee.org/abstract/document/10795043/
+Obstacle Analysis in Requirements Engineering: Retrospective and Emerging Challenges,https://ieeexplore.ieee.org/abstract/document/10855876/
+Enhancing model-driven reverse engineering using machine learning,https://dl.acm.org/doi/abs/10.1145/3639478.3639797
+Systematic Literature Review of Prompt Engineering Patterns in Software Engineering,https://ieeexplore.ieee.org/abstract/document/10633588/
+Feedback on Feedback: Student's Perceptions for Feedback from Teachers and Few-Shot LLMs,https://dl.acm.org/doi/abs/10.1145/3706468.3706479
+IDEs in the age of LLMs and XR,https://dl.acm.org/doi/abs/10.1145/3643796.3648457
+ChatGPT and Other Large Language Models in Medical Education—Scoping Literature Review,https://link.springer.com/article/10.1007/s40670-024-02206-6
+Evaluating Coding Proficiency of Large Language Models: An Investigation through Machine Learning Problems,https://ieeexplore.ieee.org/abstract/document/10937484/
+Optimizing the Utilization of Large Language Models via Schedule Optimization: An Exploratory Study,https://dl.acm.org/doi/abs/10.1145/3674805.3686671
+Just-In-Time Detection of Outdated Comments in Software Development by Jointly Reasoning,https://ieeexplore.ieee.org/abstract/document/10856272/
+Exploring the Role of Teachable AI Agents' Personality Traits in Shaping Student Interaction and Learning in Mathematics Education,https://dl.acm.org/doi/abs/10.1145/3706468.3706532
+AaceGEN: Attention Guided Adversarial Code Example Generation for Deep Code Models,https://dl.acm.org/doi/abs/10.1145/3691620.3695500
+LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss,https://dl.acm.org/doi/abs/10.1145/3661167.3661168
+Evaluating Source Code Quality with Large Language Models: a comparative study,https://dl.acm.org/doi/abs/10.1145/3701625.3701650
+Large Language Models as All-in-one Operators for Genetic Improvement,https://dl.acm.org/doi/abs/10.1145/3638530.3654408
+Automated Derivation of UML Sequence Diagrams from User Stories: Unleashing the Power of Generative AI vs. a Rule-Based Approach,https://dl.acm.org/doi/abs/10.1145/3640310.3674081
+Collaboration to Repository-Level Vulnerability Detection,https://dl.acm.org/doi/abs/10.1145/3650212.3685562
+Tutorial Report on Legacy Software Modernization: A Journey From Non-AI to Generative AI Approaches,https://dl.acm.org/doi/abs/10.1145/3641399.3641434
+Language Artificial Intelligence at a Crossroads: Deciphering the Future of Small and Large Language Models,https://ieeexplore.ieee.org/abstract/document/10632605/
+Leveraging Prompt-based Large Language Models for Code Smell Detection: A Comparative Study on the MLCQ Dataset,https://link.springer.com/chapter/10.1007/978-3-031-86149-9_42
+On coordinating llms and platform knowledge for software modernization and new developments,https://ieeexplore.ieee.org/abstract/document/10664288/
+CPLS: Optimizing the Assignment of LLM Queries,https://ieeexplore.ieee.org/abstract/document/10795114/
+SDC-estimator: an effectual software defect count estimation technique for the upcoming version of software project,https://link.springer.com/article/10.1007/s11334-025-00601-9
+GPT-Powered Elicitation Interview Script Generator for Requirements Engineering Training,https://ieeexplore.ieee.org/abstract/document/10628455/
+ECG: Augmenting Embedded Operating System Fuzzing via LLM-Based Corpus Generation,https://ieeexplore.ieee.org/abstract/document/10745813/
+PromptDeck: A No-Code Platform for Modular Prompt Engineering,https://dl.acm.org/doi/abs/10.1145/3652620.3688336
+Beyond Accuracy and Robustness Metrics for Large Language Models for Code,https://dl.acm.org/doi/abs/10.1145/3639478.3639792
+Gauging Tech Community Acceptance of Rapid Prototyping in Unfamiliar Programming Languages using LLM Chatbots,https://dl.acm.org/doi/abs/10.1145/3643795.3648393
+LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites,https://ieeexplore.ieee.org/abstract/document/10820751/
+A First Look at LLM-powered Smartphones,https://dl.acm.org/doi/abs/10.1145/3691621.3694952
+Static and Adaptive Planning with WoT TD by Generating Python Objects as Intermediary Representations Using Large Language Models,https://link.springer.com/chapter/10.1007/978-3-031-78955-7_21
+Combining NLP and Generative Models for Predicting Incident Category and Incident Routing in Incidents Management Systems,https://link.springer.com/chapter/10.1007/978-3-031-65014-7_7
+Learning from Failures: Translation of Natural Language Requirements into Linear Temporal Logic with Large Language Models,https://ieeexplore.ieee.org/abstract/document/10684640/
+SparseCoder: Advancing source code analysis with sparse attention and learned token pruning,https://link.springer.com/article/10.1007/s10664-024-10558-1
+BugOut: Automated Test Generation and Bug Detection for Low-Code,https://ieeexplore.ieee.org/abstract/document/10638513/
+Establishing Traceability Between Natural Language Requirements and Software Artifacts by Combining RAG and LLMs,https://link.springer.com/chapter/10.1007/978-3-031-75872-0_16
+Enhancing Software Design and Developer Experience Via LLMs,https://dl.acm.org/doi/abs/10.1145/3691620.3695606
+Optimizing Pre-trained Code Embeddings with Triplet Loss for Code Smell Detection,https://ieeexplore.ieee.org/abstract/document/10890964/
+Checking Transaction Isolation Violations Using Graph Queries,https://link.springer.com/chapter/10.1007/978-3-031-64285-2_11
+Generating P4 Dataplanes Using LLMs,https://ieeexplore.ieee.org/abstract/document/10635926/
+Landscape and Taxonomy of Prompt Engineering Patterns in Software Engineering,https://ieeexplore.ieee.org/abstract/document/10893869/
+Neural Fault Injection: Generating Software Faults from Natural Language,https://ieeexplore.ieee.org/abstract/document/10647083/
+Advancing Formal Verification: Fine-Tuning LLMs for Translating Natural Language Requirements to CTL Specifications,https://ieeexplore.ieee.org/abstract/document/10870993/
+Local Search-based Approach for Cost-effective Job Assignment on Large Language Models,https://dl.acm.org/doi/abs/10.1145/3638530.3654104
+Finding Missed Code Size Optimizations in Compilers using Large Language Models,https://dl.acm.org/doi/abs/10.1145/3708493.3712686
+Towards Automated Recovery of Links Between Code Commits and Requirements–Initial Results,https://link.springer.com/chapter/10.1007/978-3-031-78386-9_29
+Large Language Model for Practical Evaluation in Cloud Computing with Applications of Real World Data,https://ieeexplore.ieee.org/abstract/document/10840404/
+Detecting AI-Generated Text Using Fine-Tuned Transformers: A Study on Academic Integrity,https://link.springer.com/chapter/10.1007/978-3-031-83796-8_16
+A Systematic Mapping Study of LLM Applications in Mobile Device Research,https://link.springer.com/chapter/10.1007/978-981-96-0055-7_14
+Quality Assurance for LLM-Generated Test Cases: A Systematic Literature Review,https://ieeexplore.ieee.org/abstract/document/10844968/
+Certifying Generative AI: Retrieval-Augmented Generation Chatbots in High-Stakes Environments,https://ieeexplore.ieee.org/abstract/document/10660589/
+Can I Teach Graph Rewriting to My Chatbot?,https://link.springer.com/chapter/10.1007/978-3-031-64285-2_12
+Web Personalization with Large Language Models: Challenges and Future Trends,https://link.springer.com/chapter/10.1007/978-981-97-8669-5_21
+Development and Validation of AI-Driven NLP Algorithms for Chatbots in Requirement Engineering,https://link.springer.com/chapter/10.1007/978-3-031-60433-1_9
+Practical Assessment of Large Language Models in Cloud Computing Using Real-World Data Applications,https://ieeexplore.ieee.org/abstract/document/10803266/
+Integrating Generative AI for Enhanced Automation in System Design Processes,https://ieeexplore.ieee.org/abstract/document/10710979/
+"Prompt Engineering as Code (PEaC): an approach for building modular, reusable, and portable prompts",https://ieeexplore.ieee.org/abstract/document/10852434/
+The Iterative Query Knowledge Graph Completion Strategy,https://ieeexplore.ieee.org/abstract/document/10871566/
+A Survey Study on the State of the Art of Programming Exercise Generation using Large Language Models,https://ieeexplore.ieee.org/abstract/document/10662990/
+Classifying Source Code: How Far Can Compressor-based Classifiers Go?,https://dl.acm.org/doi/abs/10.1145/3639478.3641229
+Evaluating Alignment Techniques for Enhancing LLM Performance in a Closed-Domain Application: A RAG Bench-Marking Study,https://ieeexplore.ieee.org/abstract/document/10903215/
+When LLMs meet cybersecurity: a systematic,https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-025-00361-w.pdf
+Artificial Intelligence in System and Software Engineering for Auto Code Generation,https://ieeexplore.ieee.org/abstract/document/10738945/
+Improving Smart Contract Analysis with Large Language Models: The SLLM System,https://ieeexplore.ieee.org/abstract/document/10846030/
+Evaluating Baselines for Type Inference: Static Code Analysis Versus Large Language Model,https://link.springer.com/chapter/10.1007/978-3-031-64779-6_42
+Future Directions in Qualitative Research,https://link.springer.com/chapter/10.1007/978-3-031-60533-8_14
+LLM-Enhanced SysML Formal Method for Flanking Protection in Train Autonomous Control System,https://link.springer.com/chapter/10.1007/978-981-96-3965-6_47
+Consistency Naming Between Requirements Analysis and Specifications,https://link.springer.com/chapter/10.1007/978-981-96-1621-3_9
+Software Development Automation Using Generative AI,https://ieeexplore.ieee.org/abstract/document/10894980/
+Research of Applicability of Natural Language Processing Models to the Task of Analyzing Technical Tasks and Specifications for Software Development,https://ieeexplore.ieee.org/abstract/document/10554107/
